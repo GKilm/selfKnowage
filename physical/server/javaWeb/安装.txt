@@ -1,0 +1,3 @@
+eclipse组建安装：
+名称：Eclipse Java EE Developer Tools
+地址：http://marketplace.eclipse.org/content/eclipse-java-ee-developer-tools-0#group-external-install-button

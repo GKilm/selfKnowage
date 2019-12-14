@@ -1,0 +1,4 @@
+1.console.log()执行时可能导致异步阻塞，并非实时数据。
+    代码示例：
+        var a = {name:'Q'}; console.log(a);a.name='M'
+        输出{name:'M'}

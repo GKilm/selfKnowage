@@ -1,0 +1,8 @@
+js事件机制:
+	事件循环机制:
+	https://www.cnblogs.com/hity-tt/p/6733062.html
+	
+NodeJs:
+	js扩充服务器
+Native.js
+	js扩充原生

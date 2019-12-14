@@ -1,0 +1,11 @@
+class instance &&Class Object
+Class Object都是class，Class是Object的subclass，
+instance对应于jvm里的jclass。
+Class 是instance的静态类型擦除。
+Object 是class的root，jvm里jclass才是Object的instance。
+
+
+class类,object(类对象,实例对象)
+类:*.class这些属于类，抽象层面
+对象:类对象和实例对象属于对象，存在于运行内存中。
+	 实例对象都有唯一的类对象。

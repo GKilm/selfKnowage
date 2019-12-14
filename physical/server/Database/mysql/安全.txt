@@ -1,0 +1,2 @@
+展示授权
+	show grants for 'user'@'localhost'

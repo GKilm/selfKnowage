@@ -1,0 +1,4 @@
+访客：
+	create user 'guest'@'%' identified by 'imguest';
+授权：
+	
