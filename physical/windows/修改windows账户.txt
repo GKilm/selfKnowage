@@ -1,7 +1,7 @@
-1.�Թ���Աģʽ����������
-2.����wmic����wmi�Ľ���ģʽ
-3.useraccount where Name='��ǰ�û���' call Rename �޸ĵ��û���
-    ע���޸ĵ��û�������Ҫ������
-4.��ѯ�Ƿ��޸ĳɹ���
-    1��useraccount
-    2���鿴��ǰ�û��Ļ�������
+1.以管理员模式进入命令行
+2.键入wmic进入wmi的交互模式
+3.useraccount where Name='当前用户名' call Rename 修改的用户名
+    注：修改的用户名不需要加引号
+4.查询是否修改成功：
+    1）useraccount
+    2）查看当前用户的环境变量
